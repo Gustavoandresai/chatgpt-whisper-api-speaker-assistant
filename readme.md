@@ -1,7 +1,11 @@
 # chatgpt-whisper-api-speaker-assistant
 A Voice assistant chatbot made with ChatGPT API and Whisper API speech to text to for smart assistant conversation and customizable personality
-Welcome to the future of conversation! Imagine having an application that not only listens to you but also understands what you're saying and responds to you intelligently and conversationally. That's what chatgpt-whisper-api-speaker-assistant offers, an application developed with Python that allows you to talk to a virtual assistant in a way you've never experienced before.
+Welcome to the future of conversation! Imagine having an application that not only listens to you but also understands what you're saying and responds to you intelligently and conversationally. 
+
+
+That's what chatgpt-whisper-api-speaker-assistant offers, an application developed with Python that allows you to talk to a virtual assistant in a way you've never experienced before.
 The way it works is simple: ChatGPT Speaker records your voice and uses Whisper API transcription technology to convert what you say into text. It then uses the powerful ChatGPT API to process your question and find the best possible answer. And best of all, the answer comes in a synthetic robot voice, you'll feel like you're talking to a real human.
+
 
 Imagine having a smooth and seamless conversation with an application that is always there to help you with anything you need. From answering questions about the weather to giving you advice on what movies to watch or helping you learn a new language. 
 So if you're ready to have a completely new conversation experience, Follow the instruction down bellow for install chatGPT API and Whisper API Tutorial with python
