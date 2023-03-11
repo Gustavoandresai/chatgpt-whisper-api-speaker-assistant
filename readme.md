@@ -16,7 +16,7 @@ So if you're ready to have a completely new conversation experience, Follow the 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![ChatGPT Api flow Screen Shot][product-screenshot]](https://example.com)
+[![ChatGPT Api flow Screen Shot][product-screenshot]](https://github.com/Gustavoandresai/chatgpt-whisper-api-speaker-assistant)
 
 This project is a customizable voice assistant that uses machine learning to generate responses to user queries. The system is initialized with a Text-to-Speech voice and allows the user to speak to the system through a microphone. The audio transcription is sent to OpenAI, which uses a language model to generate a chat response. The chat response is printed in the console and spoken out loud with the help of the Text-to-Speech engine.
 
