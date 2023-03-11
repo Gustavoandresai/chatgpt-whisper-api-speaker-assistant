@@ -53,7 +53,7 @@ OpenAI
 
 You can install these dependencies using pip, the Python package manager. Here are the steps:
    ```sh
-   git clone https://github.com/Gustavoandresai/chatgpt-speaker-openai-whisper.git
+   git clone https://github.com/Gustavoandresai/chatgpt-whisper-api-speaker-assistant.git
    ```
 Run the following command to install dependencies:
  `OpenAi` `pyttsx3` `SpeechRecognition`
