@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+key.txt
+test
+test.py
+.gitignore
